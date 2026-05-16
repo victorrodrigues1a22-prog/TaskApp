@@ -5,9 +5,9 @@ Aplicativo mobile de gerenciamento de tarefas desenvolvido em React Native com E
 
 # Integrantes - 3 ADS B
 
-Álefe William - 01548485
-Eduardo da Silva - 0185646
-João Victor Rodrigues - 01848069
+- Álefe William - 01548485
+- Eduardo da Silva - 0185646
+- João Victor Rodrigues - 01848069
 
 ## Objetivo do Projeto
 
