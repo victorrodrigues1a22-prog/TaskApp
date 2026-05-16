@@ -2,6 +2,13 @@
 
 Aplicativo mobile de gerenciamento de tarefas desenvolvido em React Native com Expo, com backend em Node.js e banco de dados em nuvem utilizando MongoDB Atlas.
 
+
+# Integrantes - 3 ADS B
+
+Álefe William - 01548485
+Eduardo da Silva - 0185646
+João Victor Rodrigues - 01848069
+
 ## Objetivo do Projeto
 
 O objetivo do TaskApp é permitir que usuários façam login e gerenciem suas tarefas de forma simples, podendo cadastrar, listar, editar e excluir tarefas. As informações ficam salvas em um banco de dados em nuvem, permitindo que as tarefas continuem disponíveis mesmo após fechar o aplicativo.
@@ -45,6 +52,7 @@ O objetivo do TaskApp é permitir que usuários façam login e gerenciem suas ta
 - FlatList
 - Switch
 - Image
+- Alert
 
 ## Telas do Aplicativo
 
@@ -69,6 +77,9 @@ TaskApp/
 │   └── context/
 │       └── ThemeContext.js
 ```
+
+## Instalar Dependências
+npm install
 
 ## Backend
 
